@@ -52,7 +52,7 @@ async function main() {
     symbol: "MOONER",
     description: "Get ready to blast off! 🚀🌕 #Mooner",
     image:
-      "https://res.cloudinary.com/n3v3rg1v3up/image/upload/v1681358484/mooner-no-bg-upload_p39hqo.png",
+      "https://res.cloudinary.com/n3v3rg1v3up/image/upload/v1681359905/mooner-no-bg-upload_k7wgum.png",
   };
 
   await createUpdateMetadata(
